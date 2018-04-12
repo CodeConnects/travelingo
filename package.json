@@ -1,0 +1,13 @@
+{
+  "name": "travelingo",
+  "version": "1.0.0",
+  "description": "dynamic world travel website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeConnects/travelingo.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
