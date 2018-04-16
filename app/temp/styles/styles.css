@@ -1,0 +1,11 @@
+body {
+    border: 1px solid salmon;
+    color: #2f5572;
+    -webkit-columns: 320px 2;
+            columns: 320px 2;
+}
+
+.box a {
+        display: block;
+        padding: 10px;
+    }

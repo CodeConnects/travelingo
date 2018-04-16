@@ -1,0 +1,5 @@
+body {
+    border: 1px solid salmon;
+    color: $mainBlue;
+    columns: 320px 2;
+}
