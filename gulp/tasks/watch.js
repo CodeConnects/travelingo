@@ -14,7 +14,8 @@ gulp.task("watch", function(){
         server: {
             baseDir: "app"
         },
-        browser: "chrome.exe"
+        //browser: "chrome.exe"
+        browser: "Google Chrome"
     });
 
     watch('./app/index.html', function(){
